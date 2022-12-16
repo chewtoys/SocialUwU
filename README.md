@@ -1,6 +1,8 @@
 # [SocialUwU](https://socialuwu.netlify.app/)
 
-## **Updated version - https://github.com/VarunLanjhara/OnlyUwU**
+### Its not working anymore because of some bug and i have no time to fix the bug, but you can check its updated version(onlyuwu) if you want :shrug:
+
+### Updated version - https://github.com/VarunLanjhara/OnlyUwU
 
 ## Introduction
 
