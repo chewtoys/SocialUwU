@@ -1,3 +1,5 @@
+### (Might not work because of smol bugs and sadly I dont have time to fix the bugs 🙏)
+
 # [SocialUwU](https://socialuwu.netlify.app/)
 
 ### Updated version - https://github.com/VLisreal/OnlyUwU
