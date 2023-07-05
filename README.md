@@ -2,7 +2,7 @@
 
 # [SocialUwU](https://socialuwu.netlify.app/)
 
-### Updated version - https://github.com/VLisreal/OnlyUwU
+### Updated version - https://github.com/VarunBoi/OnlyUwU
 
 ## Introduction
 
