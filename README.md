@@ -2,8 +2,6 @@
 
 # [SocialUwU](https://socialuwu.netlify.app/)
 
-### Updated version - https://github.com/VarunLanjhara/OnlyUwU
-
 ## Introduction
 
 Social media website made by an idiot(me :)) with react,typescript,css,express,node,mongodb UwU
@@ -17,10 +15,6 @@ Social media website made by an idiot(me :)) with react,typescript,css,express,n
 - Node js
 - Mongodb
 - Multer(for image uploading and stuff)
-
-## Contributors
-
-### [Fireplonk](https://github.com/FirePlank/) - for pentesting the website
 
 ## Screenshots
 
